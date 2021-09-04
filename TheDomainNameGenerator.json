@@ -1,0 +1,5 @@
+{
+    "pronoun": String,
+    "adj": String,
+    "noun": String
+}
